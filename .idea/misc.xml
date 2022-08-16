@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/drawable-v24/home_button_background.xml" value="0.1" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/drawable/website1.xml" value="0.1" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_about_us.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_about_view.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_contact_us.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_images.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_inquiry.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_insert_your_quotes.xml" value="0.1078125" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_login.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_profile.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_quotes_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_rate_app.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_register.xml" value="0.15" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_share_app.xml" value="0.121875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vattitude.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vchange.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_veducation.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vfailure.xml" value="0.1796875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vfaith.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vfrienship.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vhappiness.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vhealth.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_view_your_quotes.xml" value="0.1078125" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vinspirational.xml" value="0.1796875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vleadership.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vlife.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vlove.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vmotivational.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vpatience.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vpeace.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vpositive.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vpower.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vrelationship.xml" value="0.165625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vsuccess.xml" value="0.1796875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_vtrust.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/activity_welcome.xml" value="0.1796875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/app_bar_home.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/content_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/image_items.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/layout_aboutus.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/layout_contactus.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/layout_profile.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/layout_v_motivational.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/layout_your_view_quotes.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/layout/nav_header_home.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/menu/activity_home_drawer.xml" value="0.1640625" />
+        <entry key="..\:/Users/Chetan/AndroidStudioProjects/QuotesUser/app/src/main/res/menu/home.xml" value="0.1640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

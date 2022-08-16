@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFAF0"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+
+
+    <TextView
+        android:id="@+id/viewquotes_quotes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:drawableLeft="@drawable/email"
+        android:drawablePadding="15dp"
+        android:fontFamily="@font/alegreya_sc_italic"
+        android:padding="10dp"
+        android:text="Quotes"
+        android:textColor="#778899"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ce2a11" />
+
+
+</LinearLayout>

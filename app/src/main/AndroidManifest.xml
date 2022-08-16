@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.quotesuser">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuotesUser"
+        tools:targetApi="31">
+        <activity
+            android:name=".ViewQuotes.VTrust"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VPower"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VHealth"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VHappiness"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VFrienship"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VFaith"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VFailure"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VRelationship"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VEducation"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VPeace"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VPatience"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VChange"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VAttitude"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VLove"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VLife"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VLeadership"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VPositive"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.QuotesList"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VInspirational"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VSuccess"
+            android:exported="false" />
+        <activity
+            android:name=".ViewQuotes.VMotivational"
+            android:exported="false" />
+        <activity
+            android:name=".RateApp"
+            android:exported="false" />
+        <activity
+            android:name=".ShareApp"
+            android:exported="false" />
+        <activity
+            android:name=".ViewYourQuotes"
+            android:exported="false" />
+        <activity
+            android:name=".InsertYourQuotes"
+            android:exported="false" />
+        <activity
+            android:name=".InquiryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ImagesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ContactUs"
+            android:exported="false" />
+        <activity
+            android:name=".AboutView"
+            android:exported="false" />
+        <activity
+            android:name=".AboutUs"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.QuotesUser.NoActionBar" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
